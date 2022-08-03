@@ -16,7 +16,7 @@ This project demonstated that sequence modelling techniques are valid, and incre
 Image processing and computer vision - Created a robust bank notes recognition system evaluated various image pre-processing, segmentation, feature extraction and classification techniques techniques to build a robust system which achieves a 93% accuracy during testing, and is capable of being deployed in ATMs, vending machines as well as aid visually impaired  individuals.
 
 ## isiZulu Part of Speech Tagging
-Implemented a Conditional Random Field (CRF) and Hidden Markov Model (HMM) to perform part of speech tagging on a large corpus of isiZulu sentences. The efficacy of these two models were empirically evaluated, which ultimately concluded with the view that the CRF outperforms the HMM for this task. Full details are provided in the respective report.
+Implemented a Conditional Random Field (CRF) and Hidden Markov Model (HMM) to perform part of speech tagging on a large corpus of isiZulu sentences. The efficacy of these two models were empirically evaluated, which ultimately concluded with the view that the CRF outperforms the HMM for this task.
 
 ## Twitter Sentiment Classification
 Implemented LSTM and GRU models for the task of classifying a corpus of tweets based on their underlying sentiment. These two models were emperically evaluated, which found that the GRU was the preferred model.
