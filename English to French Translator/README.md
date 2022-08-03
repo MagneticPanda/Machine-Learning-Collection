@@ -6,3 +6,5 @@ This project compares and contrasts 3 different sequence-to-sequence (seq2seq) a
 1. Bidirectional LSTM encoder and an LSTM decoder
 2. Bidirectional GRU encoder and an GRU decoder
 3. 2-Layered LSTM encoder and an LSTM decoder
+
+Note: A custom dataset, referenced as 'fra.txt' in the source files, was used as the labelled corpus. Due to size constaints this has been omitted from the repository, however a copy of this dataset can be provided upon request from [this google drive link](https://drive.google.com/file/d/1kTqw-yNw4UnXOaJ0JBUcFE1Ez2bALrdD/view?usp=sharing)
