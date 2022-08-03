@@ -1,5 +1,5 @@
 # Machine-Learning-Collection
-Collection of various machine learning projects which I have created.
+This repository contains an ever growing list of machine learning projects that I have created.
 
 # Projects
 A short description of each project is provided below. For more information please refer to the _report_ within the respective project folder.
