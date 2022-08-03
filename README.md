@@ -9,7 +9,7 @@ Sequence modelling has seen fruitful use in various applications such as speech 
 
 ![ACNH](https://user-images.githubusercontent.com/71750671/182713835-4de2805c-906b-4e0f-8102-54f146857693.jpg)
 
-In this project I implemented two RNN-based architectures (LSTM and GRU) and compared them against the more traditional naïve classifiers. The main task of this project is to classify the various weekly price trends that a player's island might follow - decreasing, high spike, low spike, and random. However, through DBSCAN clustering it was found that a more expressive classification could be found by carrying time-related semantics allowing the model to offer predictive capabilities through the classification mechanism itself.
+In this project I implemented two RNN-based architectures (LSTM and GRU) and compared them against the more traditional naïve classifiers. The main task of this project is to classify the various weekly price trends that a player's island might follow - decreasing, high spike, low spike, and random. However, through DBSCAN clustering a more expressive classification could be created by carrying time-related semantics within the classification itself, hence enabling the model to create predictions via it's predicted price trend classification.
 This project demonstated that sequence modelling techniques are valid, and incredibly useful, in artifical game markets as it outperforms statistically naïve models by an average of 6%, and this margin only increases in favour of sequence models when longer sequences are observed.
 
 ## South African Bank Notes Recognition System
