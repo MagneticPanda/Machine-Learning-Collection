@@ -1,8 +1,3 @@
-# South African Bank Notes Recognition System
-
-## Author
-Name: Sashen Moodley
-
 ## About
 
 Image processing and computer vision has been employed across various domains. One that is of particular interest is the recognition of various bank note denominations. This project compares and contrasts the efficacy of various image pre-processing, segmentation, feature extraction and classification techniques for the recognition of South African bank notes. An empirical setup is created to fairly evaluate the various techniques with the aim of implementing a robust system which can handle most real-life recognition scenarios. Through this empirical selection of the best-performing techniques, a robust South African bank notes recognition system was built which achieves a 93% precision score during evaluation.
