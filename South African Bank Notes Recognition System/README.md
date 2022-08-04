@@ -2,11 +2,11 @@
 
 Image processing and computer vision has been employed across various domains. One that is of particular interest is the recognition of various bank note denominations. This project compares and contrasts the efficacy of various image pre-processing, segmentation, feature extraction and classification techniques for the recognition of South African bank notes. An empirical setup is created to fairly evaluate the various techniques with the aim of implementing a robust system which can handle most real-life recognition scenarios. Through this empirical selection of the best-performing techniques, a robust South African bank notes recognition system was built which achieves a 93% precision score during evaluation.
 
-![bank-notes-atm](https://user-images.githubusercontent.com/71750671/182951078-45e97c5e-b839-4a41-97fb-19442c22e086.jpg)
-
 ## Description
 
 Machine vision has proved to be a vital asset in today’s society, as evident with its integration into various everyday systems from theft detectors to self-driving cars. Currency detection is another example of a commonly used computer vision system which has seen bounteous adoption in autonomous systems such as ATMs. Of particular interest, for this project, is the recognition of South African bank notes, hoping to capitalize of these favourable results found in across other domains.
+
+![bank-notes-atm](https://user-images.githubusercontent.com/71750671/182951078-45e97c5e-b839-4a41-97fb-19442c22e086.jpg)
 
 This project empirically compares various image processing and classification techniques to determine their relative efficacy in implementing a robust South African bank note recognition system. 
 
