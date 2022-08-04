@@ -18,7 +18,7 @@ This project demonstated that sequence modelling techniques are valid, and incre
 ## South African Bank Notes Recognition System
 Image processing and computer vision - Created a robust bank notes recognition system evaluated various image pre-processing, segmentation, feature extraction and classification techniques techniques to build a robust system which achieves a 93% accuracy during testing, and is capable of being deployed in ATMs, vending machines as well as aid visually impaired  individuals.
 
-![south-african-money-1573874](https://user-images.githubusercontent.com/71750671/182951980-0b09f9e5-c006-4ee7-a1fc-d83a1854529f.jpg)
+![tinywow_resize_4083655](https://user-images.githubusercontent.com/71750671/182954544-e8169382-0bbd-4139-baad-c7bb8057f4be.jpg)
 
 ## isiZulu Part of Speech Tagging
 Implemented a Conditional Random Field (CRF) and Hidden Markov Model (HMM) to perform part of speech tagging on a large corpus of isiZulu sentences. The efficacy of these two models were empirically evaluated, which ultimately concluded with the view that the CRF outperforms the HMM for this task.
@@ -40,4 +40,4 @@ Implemented a character level translator utilizing 3 differet sequence-to-sequen
 These 3 models were empirically evaluated which ultimately found that the GRU is faster to train and make predictions, but the LSTM provides slightly more accurate predictions (when using the same bidirectional philosophy). Furthermore it was shown that bidirectional architectures provide more accurate translations than
 a stacked architecture in this task.
 
-![french convo](https://user-images.githubusercontent.com/71750671/182952956-f54095ee-447b-438d-812f-50e16db8f044.jpg)
+![tinywow_resize_4083638](https://user-images.githubusercontent.com/71750671/182954575-06ee441b-ced2-4c71-99b1-af581dce53b0.jpg)
