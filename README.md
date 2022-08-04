@@ -1,8 +1,6 @@
 # Machine-Learning-Collection
-### Author
+### About
 Name: Sashen Moodley
-
-## About
 This repository contains an ever growing list of machine learning projects that I have created.
 
 # Projects
