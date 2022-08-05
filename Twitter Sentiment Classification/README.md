@@ -10,7 +10,7 @@ The particular sentiment task looked at in this report is around Twitter sentime
 ![twitter sentiment analysis](https://user-images.githubusercontent.com/71750671/183037780-01f33d97-9c9e-4e00-b181-518a04ba95e0.png)
 
 This project walks through the data pre-processing activities in preparing these tweets appropriately for LSTM and GRU classification,
-and presents the steps taken in training and evaluating the LSTM and GRU models. The short summary of the results are presented below; for more details please refer to the report
+and presents the steps taken in training and evaluating the LSTM and GRU models. The short summary of the results are presented below; for more details please refer to the report.
 
 # Results and Conclusion Summary
 From the metrics obtained in the the testing and evaluation phase, the following observations can be made:
