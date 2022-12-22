@@ -5,7 +5,7 @@ Name: Sashen Moodley
 This repository contains an ever growing list of machine learning projects that I have created.
 
 # Projects
-A short description of each project is provided below. For more information please refer to the sepearate repositories for each project under my profile, or the _report_ within the respective project folder.
+A short description of each project is provided below. For more information please refer to the respective project folder.
 
 ## Stock Market Classifier and Predictor
 Sequence modelling has seen fruitful use in various applications such as speech recognition, music generation, sentiment classification, machine translation, and time series prediction. However, an area that is not widely studied is the upcoming time series classification variant seen in artificial game markets. With various potential candidate artificial game markets to analyse, I was interested in implementing a time series classification for a personal favourite - Nintendo’s Animal Crossing: New Horizons (ACNH).
