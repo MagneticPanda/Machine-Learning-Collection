@@ -5,7 +5,7 @@ Name: Sashen Moodley
 This repository contains an ever growing list of machine learning projects that I have created.
 
 # Projects
-A short description of each project is provided below. For more information please refer to the _report_ within the respective project folder.
+A short description of each project is provided below. For more information please refer to the sepearate repositories for each project under my profile, or the _report_ within the respective project folder.
 
 ## Stock Market Classifier and Predictor
 Sequence modelling has seen fruitful use in various applications such as speech recognition, music generation, sentiment classification, machine translation, and time series prediction. However, an area that is not widely studied is the upcoming time series classification variant seen in artificial game markets. With various potential candidate artificial game markets to analyse, I was interested in implementing a time series classification for a personal favourite - Nintendo’s Animal Crossing: New Horizons (ACNH).
@@ -41,3 +41,8 @@ These 3 models were empirically evaluated which ultimately found that the GRU is
 a stacked architecture in this task.
 
 ![tinywow_resize_4083638](https://user-images.githubusercontent.com/71750671/182954575-06ee441b-ced2-4c71-99b1-af581dce53b0.jpg)
+
+## NBA Game Prediction
+In recent years, there has been a growth in computational predictions for various sports. One of these sports that is of particular interest is The National Basketball Association (NBA). Due to its immense global popularity, there have been numerous initiatives to gather data about various players and game, tracing back decades. This opulent source of data makes machine learning an appealing choice to detect outstanding players across and make predictions about the outcome of various games, amongst others. This report compares and contrasts various machine learning techniques in these two tasks. I utilise and evaluate various dimensionality reduction techniques (PCA and LLE), outlier detectors (SVM, IQR, Gaussian Mixtures), regressors (linear regression and polynomial regression), and a majority-voting ensemble of regressors. Through this evaluation I was able to conclude that the pairing of standard scaling LLE with the Gaussian Mixture anomaly was the best combination of techniques for detecting outstanding players. I also show that the ensemble technique is best for predicting game outcomes, with the strongest model in the ensemble being the polynomial regression model.
+
+![nba](https://user-images.githubusercontent.com/71750671/209104417-c6be9046-3b1d-46ea-ab22-93cfd22a9f64.png)
